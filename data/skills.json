@@ -1,0 +1,71 @@
+{
+  "_instructions": "Organize your skills with vibrant colors.",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "color": "#4ECDC4",
+      "skills": [
+        "Spring Boot",
+        "Spring MVC",
+        "Spring Cloud",
+        "Spring Security",
+        "React.js",
+        "Hibernate",
+        "Thymeleaf",
+        "Bootstrap",
+        "JUnit",
+        "Mockito",
+        "TestContainers"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "color": "#FFE66D",
+      "skills": [
+        "AWS (EC2, EKS, S3, DynamoDB, Lambda, IAM)",
+        "Docker",
+        "Kubernetes",
+        "Apache Kafka",
+        "Jenkins",
+        "GitHub Actions",
+        "Maven",
+        "Git",
+        "Linux",
+        "Swagger (OpenAPI)",
+        "JMeter",
+        "Gatling"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "color": "#A8DADC",
+      "skills": [
+        "Microservices Architecture",
+        "Distributed Systems",
+        "RESTful APIs",
+        "OAuth 2.0",
+        "JWT Authentication",
+        "Prompt Engineering",
+        "Event-Driven Architecture",
+        "Agile/Scrum",
+        "Code Reviews",
+        "Containerized Deployments"
+      ]
+    }
+  ]
+}

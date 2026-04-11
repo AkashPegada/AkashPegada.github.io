@@ -1,0 +1,409 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "projects": [
+    {
+      "title": "AI Resume Analyzer (AWS + React + LLM Integration)",
+      "description": "Built full stack application using React, AWS Lambda, and AWS Bedrock (Claude) to analyze resumes and generate role-based insights. Implemented LLM-based text summarization and skill extraction.",
+      "longDescription": "Built full stack application using React, AWS Lambda, and AWS Bedrock (Claude) to analyze resumes and generate role-based insights. Implemented LLM-based text summarization and skill extraction.",
+      "category": "Web Development",
+      "technologies": [
+        "React",
+        "AWS Lambda",
+        "AWS Bedrock (Claude)"
+      ],
+      "icon": "fas fa-globe",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Spring Boot CRUD Application (Thymeleaf + Bootstrap + Swagger)",
+      "description": "Developed server-side rendered application using Spring Boot and Thymeleaf with responsive UI using Bootstrap. Implemented REST APIs with Swagger/OpenAPI documentation.",
+      "longDescription": "Developed server-side rendered application using Spring Boot and Thymeleaf with responsive UI using Bootstrap. Implemented REST APIs with Swagger/OpenAPI documentation.",
+      "category": "Backend Development",
+      "technologies": [
+        "Spring Boot",
+        "Thymeleaf",
+        "Bootstrap",
+        "Swagger/OpenAPI"
+      ],
+      "icon": "fas fa-server",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Handwritten Digit Recognition System (CNN + Streamlit)",
+      "description": "Developed deep learning model for digit recognition with top-3 predictions and Grad-CAM visualization. Built interactive UI using Streamlit.",
+      "longDescription": "Developed deep learning model for digit recognition with top-3 predictions and Grad-CAM visualization. Built interactive UI using Streamlit.",
+      "category": "Data Science",
+      "technologies": [
+        "CNN",
+        "Streamlit"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "accountill",
+      "description": "Practice repository for exploring advanced features",
+      "longDescription": "Practice repository for exploring advanced features",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Dockerfile",
+        "Procfile"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/accountill",
+      "demo": "https://github.com/AkashPegada/accountill",
+      "links": {
+        "github": "https://github.com/AkashPegada/accountill",
+        "demo": "https://github.com/AkashPegada/accountill",
+        "live": "https://github.com/AkashPegada/accountill"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "devconnector_2-0",
+      "description": "Comprehensive project exploring software design patterns",
+      "longDescription": "Comprehensive project exploring software design patterns",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/devconnector_2-0",
+      "demo": "https://github.com/AkashPegada/devconnector_2-0",
+      "links": {
+        "github": "https://github.com/AkashPegada/devconnector_2-0",
+        "demo": "https://github.com/AkashPegada/devconnector_2-0",
+        "live": "https://github.com/AkashPegada/devconnector_2-0"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "mern-chat-app",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Data Science",
+      "technologies": [
+        "TypeScript",
+        "JavaScript",
+        "CSS",
+        "Dockerfile",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/mern-chat-app",
+      "demo": "https://github.com/AkashPegada/mern-chat-app",
+      "links": {
+        "github": "https://github.com/AkashPegada/mern-chat-app",
+        "demo": "https://github.com/AkashPegada/mern-chat-app",
+        "live": "https://github.com/AkashPegada/mern-chat-app"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "bookstoreapp-distributed-application",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "JavaScript",
+        "Dockerfile",
+        "HTML",
+        "CSS"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/bookstoreapp-distributed-application",
+      "demo": "https://github.com/AkashPegada/bookstoreapp-distributed-application",
+      "links": {
+        "github": "https://github.com/AkashPegada/bookstoreapp-distributed-application",
+        "demo": "https://github.com/AkashPegada/bookstoreapp-distributed-application",
+        "live": "https://github.com/AkashPegada/bookstoreapp-distributed-application"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "spark-kafka-cassandra-pipeline",
+      "description": "Personal development project using industry best practices",
+      "longDescription": "Personal development project using industry best practices",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/spark-kafka-cassandra-pipeline",
+      "demo": "https://github.com/AkashPegada/spark-kafka-cassandra-pipeline",
+      "links": {
+        "github": "https://github.com/AkashPegada/spark-kafka-cassandra-pipeline",
+        "demo": "https://github.com/AkashPegada/spark-kafka-cassandra-pipeline",
+        "live": "https://github.com/AkashPegada/spark-kafka-cassandra-pipeline"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "ems-backend",
+      "description": "Spring Boot REST API for Employee Management System with PostgreSQL integration implementing full CRUD operations.",
+      "longDescription": "Spring Boot REST API for Employee Management System with PostgreSQL integration implementing full CRUD operations.",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/ems-backend",
+      "demo": "https://github.com/AkashPegada/ems-backend",
+      "links": {
+        "github": "https://github.com/AkashPegada/ems-backend",
+        "demo": "https://github.com/AkashPegada/ems-backend",
+        "live": "https://github.com/AkashPegada/ems-backend"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "ResumeAnalyzer_Final",
+      "description": "Cloud project – Resume Analyzer (AWS Bedrock)",
+      "longDescription": "Cloud project – Resume Analyzer (AWS Bedrock)",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/ResumeAnalyzer_Final",
+      "demo": "https://github.com/AkashPegada/ResumeAnalyzer_Final",
+      "links": {
+        "github": "https://github.com/AkashPegada/ResumeAnalyzer_Final",
+        "demo": "https://github.com/AkashPegada/ResumeAnalyzer_Final",
+        "live": "https://github.com/AkashPegada/ResumeAnalyzer_Final"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "digit_recognition_project",
+      "description": "Digit Recognition Neural Network Project using Streamlit and Grad-CAM",
+      "longDescription": "Digit Recognition Neural Network Project using Streamlit and Grad-CAM",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/digit_recognition_project",
+      "demo": "https://github.com/AkashPegada/digit_recognition_project",
+      "links": {
+        "github": "https://github.com/AkashPegada/digit_recognition_project",
+        "demo": "https://github.com/AkashPegada/digit_recognition_project",
+        "live": "https://github.com/AkashPegada/digit_recognition_project"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "longDescription": "Generated GitHub contribution history",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/contribution-history",
+      "demo": "https://github.com/AkashPegada/contribution-history",
+      "links": {
+        "github": "https://github.com/AkashPegada/contribution-history",
+        "demo": "https://github.com/AkashPegada/contribution-history",
+        "live": "https://github.com/AkashPegada/contribution-history"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "banking-app",
+      "description": "GitHub repository: banking-app",
+      "longDescription": "GitHub repository: banking-app",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/banking-app",
+      "demo": "https://github.com/AkashPegada/banking-app",
+      "links": {
+        "github": "https://github.com/AkashPegada/banking-app",
+        "demo": "https://github.com/AkashPegada/banking-app",
+        "live": "https://github.com/AkashPegada/banking-app"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "springboot-apidemo",
+      "description": "GitHub repository: springboot-apidemo",
+      "longDescription": "GitHub repository: springboot-apidemo",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/springboot-apidemo",
+      "demo": "https://github.com/AkashPegada/springboot-apidemo",
+      "links": {
+        "github": "https://github.com/AkashPegada/springboot-apidemo",
+        "demo": "https://github.com/AkashPegada/springboot-apidemo",
+        "live": "https://github.com/AkashPegada/springboot-apidemo"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "GitSample",
+      "description": "GitHub repository: GitSample",
+      "longDescription": "GitHub repository: GitSample",
+      "category": "Data Science",
+      "technologies": [
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/GitSample",
+      "demo": "https://github.com/AkashPegada/GitSample",
+      "links": {
+        "github": "https://github.com/AkashPegada/GitSample",
+        "demo": "https://github.com/AkashPegada/GitSample",
+        "live": "https://github.com/AkashPegada/GitSample"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "car-maintenance-api",
+      "description": "GitHub repository: car-maintenance-api",
+      "longDescription": "GitHub repository: car-maintenance-api",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/AkashPegada/car-maintenance-api",
+      "demo": "https://github.com/AkashPegada/car-maintenance-api",
+      "links": {
+        "github": "https://github.com/AkashPegada/car-maintenance-api",
+        "demo": "https://github.com/AkashPegada/car-maintenance-api",
+        "live": "https://github.com/AkashPegada/car-maintenance-api"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}

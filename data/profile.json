@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "Akash",
+    "title": "AI-Integrated Java Full Stack Engineer",
+    "bio": "AI-Integrated Java Full Stack Engineer with 7+ years of experience building scalable microservices and cloud-native applications using Java, Spring Boot, and React, with hands-on experience integrating AI/LLM capabilities into production systems using AWS Bedrock and OpenAI APIs for features such as automated document analysis, data extraction, and workflow automation; strong expertise in distributed systems, event-driven architecture using Apache Kafka, and cloud deployments on AWS (EKS, Lambda, S3), with a proven track record of developing high-performance applications handling millions of transactions with secure authentication (OAuth2, JWT), CI/CD automation, and containerized deployments."
+  },
+  "contact": {
+    "email": "akashpegada@gmail.com",
+    "phone": "+1 913 710 4233",
+    "githubUsername": "AkashPegada",
+    "linkedin": "https://www.linkedin.com/in/akashpegada"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Akash - Portfolio",
+    "description": "AI-Integrated Java Full Stack Engineer with 7+ years of experience building scalable microservices and cloud-native applications using Java, Spring Boot, and React, with hands-on experience integrating AI/LLM capabilities into production systems using AWS Bedrock and OpenAI APIs for features such as automated document analysis, data extraction, and workflow automation; strong expertise in distributed systems, event-driven architecture using Apache Kafka, and cloud deployments on AWS (EKS, Lambda, S3), with a proven track record of developing high-performance applications handling millions of transactions with secure authentication (OAuth2, JWT), CI/CD automation, and containerized deployments."
+  }
+}

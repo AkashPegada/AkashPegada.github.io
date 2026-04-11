@@ -1,0 +1,39 @@
+{
+  "_instructions": "About section.",
+  "sectionTitle": "About Me",
+  "image": "assets/images/profile.jpg",
+  "paragraphs": [
+    "AI-Integrated Java Full Stack Engineer with 7+ years of experience building scalable microservices and cloud-native applications using Java, Spring Boot, and React, with hands-on experience integrating AI/LLM capabilities into production systems using AWS Bedrock and OpenAI APIs for features such as automated document analysis, data extraction, and workflow automation; strong expertise in distributed systems, event-driven architecture using Apache Kafka, and cloud deployments on AWS (EKS, Lambda, S3), with a proven track record of developing high-performance applications handling millions of transactions with secure authentication (OAuth2, JWT), CI/CD automation, and containerized deployments."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "16+",
+      "label": "Projects Completed",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-briefcase",
+      "value": "1+",
+      "label": "Years Experience",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "value": "37+",
+      "label": "Technologies",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-award",
+      "value": "0+",
+      "label": "Certifications",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Download Resume",
+    "href": "assets/files/resume.pdf",
+    "icon": "fas fa-download"
+  }
+}

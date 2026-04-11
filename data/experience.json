@@ -1,0 +1,59 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Senior Java Full Stack Engineer (Microservices & AI Integration)",
+      "company": "Capital One Financial",
+      "period": "Aug 2025 - Present",
+      "location": "",
+      "description": "Designed and developed scalable Spring Boot microservices and REST APIs supporting financial workflow automation platforms. Built and enhanced React-based dashboards for transaction tracking and approval workflows. Integrated AI/LLM-based document processing workflows using AWS Bedrock/OpenAI APIs to automate data extraction and validation. Optimized PostgreSQL database performance, improving reporting query execution time by 25%. Secured distributed services using OAuth 2.0 and JWT authentication. Containerized applications using Docker and deployed to Kubernetes (EKS). Contributed to CI/CD pipelines using Jenkins. Developed unit and integration tests using JUnit and Mockito. Collaborated with cross-functional teams in Agile environments.",
+      "responsibilities": [
+        "Designed and developed scalable Spring Boot microservices and REST APIs supporting financial workflow automation platforms",
+        "Built and enhanced React-based dashboards for transaction tracking and approval workflows",
+        "Integrated AI/LLM-based document processing workflows using AWS Bedrock/OpenAI APIs to automate data extraction and validation",
+        "Optimized PostgreSQL database performance, improving reporting query execution time by 25%",
+        "Secured distributed services using OAuth 2",
+        "0 and JWT authentication",
+        "Containerized applications using Docker and deployed to Kubernetes (EKS)",
+        "Contributed to CI/CD pipelines using Jenkins",
+        "Developed unit and integration tests using JUnit and Mockito",
+        "Collaborated with cross-functional teams in Agile environments"
+      ]
+    },
+    {
+      "title": "Java Full Stack Engineer (Microservices & Cloud - AWS)",
+      "company": "Accenture",
+      "period": "Jul 2019 - Aug 2023",
+      "location": "",
+      "description": "Developed Spring Boot microservices supporting shipment lifecycle management, vendor onboarding, and billing validation. Built React-based operational dashboards for real-time shipment tracking. Designed and implemented RESTful APIs for synchronizing shipment data. Implemented Apache Kafka event-driven pipelines to process shipment updates. Applied intelligent automation techniques for anomaly detection. Secured applications using OAuth 2.0, JWT authentication, and RBAC. Built and maintained CI/CD pipelines using Jenkins. Deployed applications using Docker and Kubernetes. Managed AWS cloud infrastructure (EC2, EKS, S3, IAM).",
+      "responsibilities": [
+        "Developed Spring Boot microservices supporting shipment lifecycle management, vendor onboarding, and billing validation",
+        "Built React-based operational dashboards for real-time shipment tracking",
+        "Designed and implemented RESTful APIs for synchronizing shipment data",
+        "Implemented Apache Kafka event-driven pipelines to process shipment updates",
+        "Applied intelligent automation techniques for anomaly detection",
+        "Secured applications using OAuth 2",
+        "0, JWT authentication, and RBAC",
+        "Built and maintained CI/CD pipelines using Jenkins",
+        "Deployed applications using Docker and Kubernetes",
+        "Managed AWS cloud infrastructure (EC2, EKS, S3, IAM)"
+      ]
+    },
+    {
+      "title": "Java Backend Engineer",
+      "company": "Hexaware Technologies",
+      "period": "Jan 2018 - Jun 2019",
+      "location": "",
+      "description": "Developed backend modules using Java, Spring Framework, and Hibernate for enterprise order processing systems. Designed and implemented REST APIs for frontend-backend communication. Built server-side rendered UI using Thymeleaf and Bootstrap. Designed relational data models and optimized SQL queries for MySQL and Oracle databases. Developed JUnit test cases to validate backend functionality. Debugged and resolved production issues by analysing logs and fixing backend service failures.",
+      "responsibilities": [
+        "Developed backend modules using Java, Spring Framework, and Hibernate for enterprise order processing systems",
+        "Designed and implemented REST APIs for frontend-backend communication",
+        "Built server-side rendered UI using Thymeleaf and Bootstrap",
+        "Designed relational data models and optimized SQL queries for MySQL and Oracle databases",
+        "Developed JUnit test cases to validate backend functionality",
+        "Debugged and resolved production issues by analysing logs and fixing backend service failures"
+      ]
+    }
+  ]
+}
