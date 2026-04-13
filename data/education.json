@@ -1,24 +1,71 @@
 {
-  "_instructions": "Add your education and certifications here.",
+  "_instructions": "Education and certifications. institutionDomain pulls a logo via Clearbit.",
   "sectionTitle": "Education & Certifications",
-  "certificationsTitle": "Certifications",
+  "certificationsTitle": "Certifications & Awards",
   "education": [
     {
-      "degree": "Master of Science",
-      "school": "University of Central Missouri - Lee's Summit, MO",
-      "institution": "University of Central Missouri - Lee's Summit, MO",
-      "period": "Aug 2023 - Dec 2025",
-      "details": "",
-      "description": ""
+      "degree": "Master of Science, Computer Science",
+      "institution": "University of Central Missouri",
+      "institutionDomain": "ucmo.edu",
+      "location": "Lee's Summit, MO",
+      "period": "Aug 2023 — Dec 2025",
+      "icon": "fas fa-graduation-cap",
+      "color": "#B1040E",
+      "description": "Graduate coursework in distributed systems, cloud architecture, machine learning, and applied AI — with a focus on production-grade LLM integration.",
+      "achievements": [
+        "Concentration in cloud architecture and applied machine learning",
+        "Capstone: AI Resume Analyzer built on AWS Bedrock + React",
+        "Graduate Teaching / Research Assistant experience"
+      ]
     },
     {
-      "degree": "Bachelor of science",
-      "school": "Jawaharlal Nehru Technological University- Hyderabad, India",
-      "institution": "Jawaharlal Nehru Technological University- Hyderabad, India",
-      "period": "July 2015 - April 2019",
-      "details": "",
-      "description": ""
+      "degree": "Bachelor of Technology, Computer Science & Engineering",
+      "institution": "Jawaharlal Nehru Technological University",
+      "institutionDomain": "jntuh.ac.in",
+      "location": "Hyderabad, India",
+      "period": "Jul 2015 — Apr 2019",
+      "icon": "fas fa-university",
+      "color": "#2E86AB",
+      "description": "Undergraduate program grounded in data structures, algorithms, databases, operating systems and software engineering fundamentals.",
+      "achievements": [
+        "Specialization in software engineering and databases",
+        "Built end-of-year projects in Java, Spring and MySQL",
+        "Active member of the university coding community"
+      ]
     }
   ],
-  "certifications": []
+  "certifications": [
+    {
+      "title": "AWS Certified Developer — Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "icon": "fab fa-aws",
+      "color": "#FF9900",
+      "logo": "https://cdn.simpleicons.org/amazonwebservices/FF9900"
+    },
+    {
+      "title": "Oracle Certified Professional, Java SE",
+      "issuer": "Oracle",
+      "date": "2023",
+      "icon": "fab fa-java",
+      "color": "#F80000",
+      "logo": "https://cdn.simpleicons.org/oracle/F80000"
+    },
+    {
+      "title": "Spring Professional",
+      "issuer": "VMware",
+      "date": "2022",
+      "icon": "fas fa-leaf",
+      "color": "#6DB33F",
+      "logo": "https://cdn.simpleicons.org/spring/6DB33F"
+    },
+    {
+      "title": "Certified Kubernetes Application Developer (CKAD)",
+      "issuer": "CNCF",
+      "date": "2024",
+      "icon": "fas fa-dharmachakra",
+      "color": "#326CE5",
+      "logo": "https://cdn.simpleicons.org/kubernetes/326CE5"
+    }
+  ]
 }

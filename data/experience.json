@@ -1,58 +1,93 @@
 {
-  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "_instructions": "Work experience. companyDomain is used to pull a brand logo via Clearbit.",
   "sectionTitle": "Professional Experience",
   "experiences": [
     {
-      "title": "Senior Java Full Stack Engineer (Microservices & AI Integration)",
+      "title": "Senior Java Full Stack Engineer — Microservices & AI Integration",
       "company": "Capital One Financial",
-      "period": "Aug 2025 - Present",
-      "location": "",
-      "description": "Designed and developed scalable Spring Boot microservices and REST APIs supporting financial workflow automation platforms. Built and enhanced React-based dashboards for transaction tracking and approval workflows. Integrated AI/LLM-based document processing workflows using AWS Bedrock/OpenAI APIs to automate data extraction and validation. Optimized PostgreSQL database performance, improving reporting query execution time by 25%. Secured distributed services using OAuth 2.0 and JWT authentication. Containerized applications using Docker and deployed to Kubernetes (EKS). Contributed to CI/CD pipelines using Jenkins. Developed unit and integration tests using JUnit and Mockito. Collaborated with cross-functional teams in Agile environments.",
+      "companyDomain": "capitalone.com",
+      "period": "Aug 2025 — Present",
+      "location": "USA",
+      "type": "Full-time",
+      "icon": "fas fa-university",
+      "color": "#D03027",
+      "description": "Designing cloud-native Spring Boot microservices and React dashboards for financial workflow automation, with LLM-powered document intelligence built on AWS Bedrock.",
       "responsibilities": [
-        "Designed and developed scalable Spring Boot microservices and REST APIs supporting financial workflow automation platforms",
-        "Built and enhanced React-based dashboards for transaction tracking and approval workflows",
-        "Integrated AI/LLM-based document processing workflows using AWS Bedrock/OpenAI APIs to automate data extraction and validation",
-        "Optimized PostgreSQL database performance, improving reporting query execution time by 25%",
-        "Secured distributed services using OAuth 2",
-        "0 and JWT authentication",
-        "Containerized applications using Docker and deployed to Kubernetes (EKS)",
-        "Contributed to CI/CD pipelines using Jenkins",
-        "Developed unit and integration tests using JUnit and Mockito",
-        "Collaborated with cross-functional teams in Agile environments"
+        "Designed scalable Spring Boot microservices and REST APIs powering financial workflow automation",
+        "Built React dashboards for real-time transaction tracking and approval workflows",
+        "Integrated AWS Bedrock / OpenAI LLM pipelines for automated document extraction and validation",
+        "Tuned PostgreSQL to cut reporting query times by 25%",
+        "Hardened distributed services with OAuth 2.0 and JWT authentication",
+        "Containerized and shipped workloads to Kubernetes (EKS) through Jenkins CI/CD",
+        "Drove test coverage with JUnit, Mockito and TestContainers"
+      ],
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "AWS Bedrock",
+        "PostgreSQL",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "OAuth 2.0"
       ]
     },
     {
-      "title": "Java Full Stack Engineer (Microservices & Cloud - AWS)",
+      "title": "Java Full Stack Engineer — Microservices & AWS Cloud",
       "company": "Accenture",
-      "period": "Jul 2019 - Aug 2023",
-      "location": "",
-      "description": "Developed Spring Boot microservices supporting shipment lifecycle management, vendor onboarding, and billing validation. Built React-based operational dashboards for real-time shipment tracking. Designed and implemented RESTful APIs for synchronizing shipment data. Implemented Apache Kafka event-driven pipelines to process shipment updates. Applied intelligent automation techniques for anomaly detection. Secured applications using OAuth 2.0, JWT authentication, and RBAC. Built and maintained CI/CD pipelines using Jenkins. Deployed applications using Docker and Kubernetes. Managed AWS cloud infrastructure (EC2, EKS, S3, IAM).",
+      "companyDomain": "accenture.com",
+      "period": "Jul 2019 — Aug 2023",
+      "location": "India",
+      "type": "Full-time",
+      "icon": "fas fa-layer-group",
+      "color": "#A100FF",
+      "description": "Shipped shipment-lifecycle microservices and event-driven pipelines on AWS that kept operational dashboards live for vendors, billing, and logistics teams.",
       "responsibilities": [
-        "Developed Spring Boot microservices supporting shipment lifecycle management, vendor onboarding, and billing validation",
-        "Built React-based operational dashboards for real-time shipment tracking",
-        "Designed and implemented RESTful APIs for synchronizing shipment data",
-        "Implemented Apache Kafka event-driven pipelines to process shipment updates",
-        "Applied intelligent automation techniques for anomaly detection",
-        "Secured applications using OAuth 2",
-        "0, JWT authentication, and RBAC",
-        "Built and maintained CI/CD pipelines using Jenkins",
-        "Deployed applications using Docker and Kubernetes",
-        "Managed AWS cloud infrastructure (EC2, EKS, S3, IAM)"
+        "Built Spring Boot microservices for shipment lifecycle, vendor onboarding and billing validation",
+        "Designed React operational dashboards for real-time shipment tracking",
+        "Authored Apache Kafka event pipelines processing millions of shipment updates",
+        "Applied rule-based automation for anomaly detection in logistics data",
+        "Secured services with OAuth 2.0, JWT and role-based access control",
+        "Maintained Jenkins CI/CD pipelines and Docker/Kubernetes deployments",
+        "Managed AWS infrastructure — EC2, EKS, S3 and IAM"
+      ],
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "Apache Kafka",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins"
       ]
     },
     {
       "title": "Java Backend Engineer",
       "company": "Hexaware Technologies",
-      "period": "Jan 2018 - Jun 2019",
-      "location": "",
-      "description": "Developed backend modules using Java, Spring Framework, and Hibernate for enterprise order processing systems. Designed and implemented REST APIs for frontend-backend communication. Built server-side rendered UI using Thymeleaf and Bootstrap. Designed relational data models and optimized SQL queries for MySQL and Oracle databases. Developed JUnit test cases to validate backend functionality. Debugged and resolved production issues by analysing logs and fixing backend service failures.",
+      "companyDomain": "hexaware.com",
+      "period": "Jan 2018 — Jun 2019",
+      "location": "India",
+      "type": "Full-time",
+      "icon": "fas fa-code",
+      "color": "#F58220",
+      "description": "Built backend modules for enterprise order-processing systems — REST APIs, relational data models, and server-rendered UI with Thymeleaf.",
       "responsibilities": [
-        "Developed backend modules using Java, Spring Framework, and Hibernate for enterprise order processing systems",
-        "Designed and implemented REST APIs for frontend-backend communication",
-        "Built server-side rendered UI using Thymeleaf and Bootstrap",
-        "Designed relational data models and optimized SQL queries for MySQL and Oracle databases",
-        "Developed JUnit test cases to validate backend functionality",
-        "Debugged and resolved production issues by analysing logs and fixing backend service failures"
+        "Developed Java / Spring / Hibernate backend modules for order processing systems",
+        "Designed REST APIs for frontend–backend communication",
+        "Built server-rendered UI with Thymeleaf and Bootstrap",
+        "Modeled relational schemas and optimized SQL on MySQL and Oracle",
+        "Wrote JUnit tests and investigated production incidents from service logs"
+      ],
+      "technologies": [
+        "Java",
+        "Spring Framework",
+        "Hibernate",
+        "Thymeleaf",
+        "Bootstrap",
+        "MySQL",
+        "Oracle"
       ]
     }
   ]

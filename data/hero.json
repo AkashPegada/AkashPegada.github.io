@@ -1,26 +1,31 @@
 {
   "_instructions": "Hero section content.",
   "greeting": "Hi, I'm",
-  "name": "Akash",
+  "name": "Akash Pegada",
   "title": "AI-Integrated Java Full Stack Engineer",
-  "summary": "AI-Integrated Java Full Stack Engineer with 1+ years of experience specializing in Java, JavaScript, SQL.",
-  "avatarUrl": "/avatar.png",
-  "tagline": "AI-Integrated Java Full Stack Engineer",
+  "tagline": "Building cloud-native, LLM-powered platforms that scale.",
+  "summary": "I design and ship production-grade microservices and React frontends, and I love wiring AWS Bedrock, OpenAI and Kafka into real workflows — document intelligence, operational dashboards, and event-driven automation.",
+  "avatarUrl": "https://avatars.githubusercontent.com/AkashPegada",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "text": "1+ Years Experience",
+      "text": "7+ Years Engineering",
       "color": "#FF6B6B"
     },
     {
-      "icon": "fas fa-project-diagram",
-      "text": "16+ Projects Completed",
+      "icon": "fas fa-cubes",
+      "text": "Microservices & Cloud Native",
       "color": "#4ECDC4"
     },
     {
-      "icon": "fas fa-code",
-      "text": "Technical Expertise",
+      "icon": "fas fa-robot",
+      "text": "LLM & AI Integration",
       "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-bolt",
+      "text": "Event-Driven Systems",
+      "color": "#B19CD9"
     }
   ],
   "cta": {
@@ -29,12 +34,14 @@
         "text": "Get In Touch",
         "href": "#contact",
         "type": "primary",
+        "icon": "fas fa-paper-plane",
         "external": false
       },
       {
         "text": "View My Work",
         "href": "#projects",
         "type": "secondary",
+        "icon": "fas fa-arrow-right",
         "external": false
       }
     ]
@@ -42,7 +49,7 @@
   "socialLinks": [
     {
       "platform": "GitHub",
-      "url": "https://github.com/akashpegada",
+      "url": "https://github.com/AkashPegada",
       "icon": "fab fa-github"
     },
     {
